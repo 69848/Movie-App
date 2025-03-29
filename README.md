@@ -16,7 +16,3 @@ This project is a Movie App built with React and Vite. It allows users to browse
 - **Fetch**: For making API requests
 - **TMDb API**: For fetching movie data
 - **CSS Modules**: For styling components
-
-## Overview
-
-![alt text](./src/assets/movie_app.png)
